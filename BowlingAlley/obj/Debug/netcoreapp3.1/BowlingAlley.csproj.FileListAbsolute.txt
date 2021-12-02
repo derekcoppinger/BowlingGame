@@ -1,0 +1,13 @@
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.exe
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.deps.json
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.runtimeconfig.json
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.runtimeconfig.dev.json
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.dll
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\bin\Debug\netcoreapp3.1\BowlingAlley.pdb
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.csprojAssemblyReference.cache
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.AssemblyInfoInputs.cache
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.AssemblyInfo.cs
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.csproj.CoreCompileInputs.cache
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.dll
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.pdb
+C:\src\job-interviews\Venminder\BowlingAlley\BowlingAlley\obj\Debug\netcoreapp3.1\BowlingAlley.genruntimeconfig.cache
